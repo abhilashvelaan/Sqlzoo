@@ -1,5 +1,3 @@
-SELECT names
-
 1.
 You can use WHERE name LIKE 'B%' to find the countries that start with "B".
 
